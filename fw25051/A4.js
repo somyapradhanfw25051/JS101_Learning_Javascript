@@ -1,0 +1,21 @@
+let name ="𝙨𝙤𝙢𝙮𝙖 𝙥𝙧𝙖𝙙𝙝𝙖𝙣";
+let school = "𝘽𝙪𝙙𝙝𝙖𝙧𝙖𝙟𝙖 𝙃𝙞𝙜𝙝 𝙎𝙘𝙝𝙤𝙤𝙡";
+let grade = "Grade 𝟏𝟎";
+let section = "Section Ａ";
+let Rollno = "Roll No 𝟬𝟴";
+const fm1 = "full mark in MATH is １００";
+const fm2 = "full mark in SCIENCE is １００";
+const fm3 = "full mark in ENGLISH is １００";
+let sm1 = "marks scored in MATH is 𝟴𝟴";
+let sm2 = "marks scored in SCIENCE is 𝟴𝟱";
+let sm3 = "marks scored in ENGLISH is 𝟴𝟮";
+
+console.log("__________RESULT__________");
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(Rollno);
+console.log(fm1, sm1);
+console.log(fm2,sm2);
+console.log(fm3,sm3);
